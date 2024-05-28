@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.main-bg-img {
+  background-image: url("./assets//man-with-guitar-man-playing-guitar-alone-meadow-digital-art-style-illustration-painting_743201-5456.jpg") ;
+  height: 80vh;
+  background-size: cover;
+}
